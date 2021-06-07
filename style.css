@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background: linear-gradient(#f6ff00, #00ff3c, #0084ff, #ff0088, #fc6b03, #fcc603);
+}
+
+#code {
+    border-radius: 50%;
+    width: 300px;
+}
+
+h1 {
+    text-shadow: 2px 2px #5100ff;
+    font-size: 30px;
+}
+
+.line {
+    height: 6px;
+    background-color: #00fbff;
+    width: 70px;
+    margin: 8px auto;
+}
+
+p{
+    font-size: 22px;
+}
