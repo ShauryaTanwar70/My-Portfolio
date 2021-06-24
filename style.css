@@ -6,6 +6,7 @@ body {
 #code {
     border-radius: 50%;
     width: 300px;
+    z-index: 9;
 }
 
 h1 {
@@ -65,6 +66,6 @@ p {
     font-family: 'Lobster', cursive;
 }
 
-.links: hover {
+.links:hover {
     background-color: forestgreen;
 }
