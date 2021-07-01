@@ -69,3 +69,11 @@ p {
 .links:hover {
     background-color: forestgreen;
 }
+
+a {
+    text-decoration: none;
+}
+
+.mwork {
+    margin: 20px;
+}
